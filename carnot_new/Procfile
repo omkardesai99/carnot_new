@@ -1,0 +1,1 @@
+web: gunicorn carnot_project.wsgi --log-file -
